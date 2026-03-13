@@ -80,6 +80,6 @@ Tools Used
     Tinkercad Circuits Simulator
     Serial Monitor
 
-    Tinkercad Circuits Simulator
+    
 
-    Serial Monitor
+    
