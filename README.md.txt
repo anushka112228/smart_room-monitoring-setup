@@ -74,10 +74,3 @@ LED
 
 Pin 9 → 220Ω Resistor → LED → GND
 
-Tools Used
-
-    Arduino IDE
-
-    Tinkercad Circuits Simulator
-
-    Serial Monitor
